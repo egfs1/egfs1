@@ -1,14 +1,14 @@
 ### 🙃Hello!! My name is Eduardo, i'm a college student 
 
-<div>
+<div align="center">
   <a href="https://github.com/egfs1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=egfs1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egfs1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=egfs1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egfs1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-### Languages and technologies i'm current learning :))
+### 🖥Languages and technologies i'm current learning :))
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-d5be01?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="HTML"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
